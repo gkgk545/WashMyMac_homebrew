@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>WashMyMac</title>
+    <item>
+      <title>0.1.209</title>
+      <pubDate>Sun, 15 Nov 2026 03:43:43 +0000</pubDate>
+      <sparkle:version>0.1.209</sparkle:version>
+      <sparkle:shortVersionString>0.1.209</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>첫 베타</description>
+      <enclosure url="https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v0.1.209/WashMyMac-0.1.209.zip" length="9341139" type="application/octet-stream" sparkle:edSignature="uDp3fJvoorz9myo7EayGZBW0cWUGM4QwfFFqjKTi7U4ks1/keNbhIai5nogSFaqoPsZ0QhDq+L5srcPijG80Cw=="/>
+    </item>
+  </channel>
+</rss>
