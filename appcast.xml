@@ -3,13 +3,13 @@
   <channel>
     <title>WashMyMac</title>
     <item>
-      <title>0.1.237</title>
-      <pubDate>Wed, 18 Nov 2026 03:44:12 +0000</pubDate>
-      <sparkle:version>0.1.237</sparkle:version>
-      <sparkle:shortVersionString>0.1.237</sparkle:shortVersionString>
+      <title>0.1.243</title>
+      <pubDate>Thu, 19 Nov 2026 08:39:51 +0000</pubDate>
+      <sparkle:version>0.1.243</sparkle:version>
+      <sparkle:shortVersionString>0.1.243</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>응용 프로그램 세부에서 앱 체크 상자를 누르면 앱이 종료되던 문제 수정. 손쉬운 사용(VoiceOver)으로 사이드바 모듈을 고를 수 있음. 세부 화면 검색을 지우면 검색 전 펼침으로 돌아옴. 정리함 스캔 진행 표시가 오래 멈춰 보이던 문제 수정.</description>
-      <enclosure url="https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v0.1.237/WashMyMac-0.1.237.zip" length="9494259" type="application/octet-stream" sparkle:edSignature="iXMSklC6PjT82HCzIIWZo6Kax8VLn0AIqppMJ+x3ORd8I/wzr0t+aCpBiPxKO0+ALly5LbatD32dX/XUXciIDQ=="/>
+      <description>응용 프로그램 폴더 밖에서 열면 옮기자고 묻기(다운로드 폴더에서 연 앱의 업데이트가 멈추던 문제)</description>
+      <enclosure url="https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v0.1.243/WashMyMac-0.1.243.zip" length="9507461" type="application/octet-stream" sparkle:edSignature="eWKZS6EJ0sSfPER/blZTtyIfMuIhYkBq0nFAgrwe2EA61CNrzNr3Q+N1mJHq4YxpGdZbOOagpwLhnY3lfzSSDg=="/>
     </item>
   </channel>
 </rss>
