@@ -1,8 +1,8 @@
 cask "washmymac" do
-  version "0.1.248"
-  sha256 "116a53f263fd56ed7018c4dfb44ab24f99d7d2330d7b3382403c473ce94f6c2d"
+  version "0.1.253"
+  sha256 "ebce80ca69f0b7be750ad9de7b24309f298f005093770991985fdbbfb307f30c"
 
-  url "https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v0.1.248/WashMyMac-0.1.248.zip"
+  url "https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v0.1.253/WashMyMac-0.1.253.zip"
   name "WashMyMac"
   desc "Mac 정리 앱(베타)"
   homepage "https://github.com/gkgk545/WashMyMac_homebrew"
