@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="media/icon.png" width="112" alt="WashMyMac 아이콘">
+  <img src="media/icon.png" width="112" alt="말끔 아이콘">
 </p>
 
-<h1 align="center">WashMyMac</h1>
+<h1 align="center">말끔 (Malkkeum)</h1>
 
 <p align="center">
   Mac에 쌓인 쓸모없는 파일을 찾아 정리하는 앱 · <b>베타</b>
+</p>
+
+<p align="center">
+  <sub>예전 이름 WashMyMac. 이미 쓰고 있다면 업데이트 뒤 처음 열 때 앱 이름이 저절로 바뀌고, 설정·기록·권한은 그대로예요.</sub>
 </p>
 
 <p align="center">
@@ -34,27 +38,27 @@
 
 ```bash
 brew tap gkgk545/washmymac https://github.com/gkgk545/WashMyMac_homebrew
-brew install --cask gkgk545/washmymac/washmymac
+brew install --cask gkgk545/washmymac/malkkeum
 ```
 
-- 응용 프로그램 폴더에 WashMyMac이 생기고, 처음 열 때 **"열 수 없음" 창 없이 바로 열려요.**
+- 응용 프로그램 폴더에 말끔(Malkkeum)이 생기고, 처음 열 때 **"열 수 없음" 창 없이 바로 열려요.**
   베타 앱은 아직 Apple 공증을 받지 않아서, 설치 명령이 이 앱에 붙은 다운로드 확인 표시를 지워 줘요.
-- 둘째 줄처럼 `gkgk545/washmymac/washmymac` 전체 이름으로 설치해야 Homebrew가 이 저장소를 믿고 설치해요.
+- 둘째 줄처럼 `gkgk545/washmymac/malkkeum` 전체 이름으로 설치해야 Homebrew가 이 저장소를 믿고 설치해요.
 - Homebrew가 없다면 [brew.sh](https://brew.sh)의 설치 명령을 먼저 실행하세요.
 
 ### 방법 2 · 직접 내려받기
 
-1. [최신 버전](https://github.com/gkgk545/WashMyMac_homebrew/releases/latest) 페이지에서 `WashMyMac-….zip`을 내려받아 두 번 눌러 풀어요.
-2. 나온 `WashMyMac`을 **응용 프로그램** 폴더로 끌어 놓아요.
+1. [최신 버전](https://github.com/gkgk545/WashMyMac_homebrew/releases/latest) 페이지에서 `Malkkeum-….zip`을 내려받아 두 번 눌러 풀어요.
+2. 나온 `Malkkeum`(한국어 Mac에서는 "말끔")을 **응용 프로그램** 폴더로 끌어 놓아요.
    다른 곳에서 열면 앱이 "응용 프로그램 폴더로 옮길까요?"라고 물어요. **옮기기**를 누르세요(그래야 업데이트를 받아요).
 3. 두 번 눌러 열면 처음 한 번은 **"열 수 없음"** 창이 떠요. **완료**를 누르세요.
-4. **시스템 설정 › 개인정보 보호 및 보안**을 열고 맨 아래 "WashMyMac" 옆의 **확인 없이 열기**를 누르세요.
+4. **시스템 설정 › 개인정보 보호 및 보안**을 열고 맨 아래 "말끔" 옆의 **확인 없이 열기**를 누르세요.
    Mac 암호를 물으면 넣어요. 이 과정은 처음 한 번뿐이에요.
 
 ## 처음 열면
 
 - 짧은 소개가 지나간 뒤 **전체 디스크 접근**을 허용해 달라고 해요. 안내 단추를 누르면 시스템 설정이 열리고,
-  목록에서 WashMyMac을 켜면 돼요. 허용하지 않아도 쓸 수는 있지만 찾는 것이 줄어요.
+  목록에서 말끔을 켜면 돼요. 허용하지 않아도 쓸 수는 있지만 찾는 것이 줄어요.
 - 오류 보고를 보낸다는 안내가 한 번 떠요. 원하지 않으면 끌 수 있어요([오류 보고와 의견](#오류-보고와-의견)).
 
 ## 이렇게 써요
@@ -106,8 +110,8 @@ brew install --cask gkgk545/washmymac/washmymac
 새 버전은 앱이 알아서 챙겨요. Homebrew로 설치했어도 똑같아요(`brew upgrade`는 필요 없어요).
 
 - **알림으로 받기**: 앱이 하루에 한 번 새 버전을 확인하고, 있으면 창으로 알려 줘요. **업데이트 설치**를 누르면 내려받아 다시 열어요.
-- **직접 확인**: 위쪽 메뉴 **WashMyMac › 업데이트 확인…**
-- **알아서 설치**: **WashMyMac › 설정 › 일반 › 업데이트**에서 "새 버전을 알아서 내려받고, 앱을 끝낼 때 설치"를 켜면 묻지 않고 설치해요.
+- **직접 확인**: 위쪽 메뉴 **말끔 › 업데이트 확인…**
+- **알아서 설치**: **말끔 › 설정 › 일반 › 업데이트**에서 "새 버전을 알아서 내려받고, 앱을 끝낼 때 설치"를 켜면 묻지 않고 설치해요.
   같은 곳에서 지금 버전도 볼 수 있어요. 문제를 알려 줄 때 함께 적어 주세요.
 
 <p align="center">
@@ -119,7 +123,7 @@ brew install --cask gkgk545/washmymac/washmymac
 ## 오류 보고와 의견
 
 - 앱에 문제가 생기면 **오류 보고를 자동으로** 보내요. 보내기 전에 사용자 이름·컴퓨터 이름·홈 폴더 경로·파일 이름은 지워요.
-  원하지 않으면 **WashMyMac › 설정 › 일반**에서 "오류 보고 보내기"를 끄세요.
+  원하지 않으면 **말끔 › 설정 › 일반**에서 "오류 보고 보내기"를 끄세요.
 - 이상한 점이 있으면 **도움말 › 문제 보내기…** 메뉴로 알려 주세요. 글은 비워 둬도 되고, 최근 정리 기록 몇 줄이 이름·경로를 지운 채 함께 가요.
 
 ## 지우기
@@ -127,11 +131,11 @@ brew install --cask gkgk545/washmymac/washmymac
 - **Homebrew로 설치했다면**
 
   ```bash
-  brew uninstall --cask washmymac
+  brew uninstall --cask malkkeum
   ```
 
-  설정과 기록까지 지우려면 `brew uninstall --zap --cask washmymac`.
-- **직접 설치했다면**: 메뉴 막대 아이콘 › **끝내기**를 누른 뒤, 응용 프로그램 폴더의 `WashMyMac`을 휴지통으로 옮겨요.
+  설정과 기록까지 지우려면 `brew uninstall --zap --cask malkkeum`.
+- **직접 설치했다면**: 메뉴 막대 아이콘 › **끝내기**를 누른 뒤, 응용 프로그램 폴더의 `Malkkeum`(말끔)을 휴지통으로 옮겨요.
 
 ## 자주 묻는 것
 
@@ -153,7 +157,7 @@ Homebrew로 설치하면 이 창이 뜨지 않아요.
 <summary><b>전체 디스크 접근을 꼭 허용해야 하나요?</b></summary>
 
 아니요. 허용하지 않으면 다른 앱의 캐시·메일 첨부 파일처럼 macOS가 막아 둔 곳을 보지 못해 찾는 양이 줄어요.
-나중에 **WashMyMac › 설정 › 일반**의 **켜기**로 허용할 수 있어요.
+나중에 **말끔 › 설정 › 일반**의 **켜기**로 허용할 수 있어요.
 </details>
 
 <details>

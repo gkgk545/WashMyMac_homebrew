@@ -1,9 +1,10 @@
-cask "washmymac" do
-  version "0.1.253"
-  sha256 "ebce80ca69f0b7be750ad9de7b24309f298f005093770991985fdbbfb307f30c"
+cask "malkkeum" do
+  version "0.2.0"
+  sha256 "6ae21dbe08e69a06687cfcfc5ecd045810bdb49624a6172326deb853e3a753cf"
 
-  url "https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v#{version}/WashMyMac-#{version}.zip"
-  name "WashMyMac"
+  url "https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v#{version}/Malkkeum-#{version}.zip"
+  name "말끔"
+  name "Malkkeum"
   desc "쓸모없는 파일 정리 도구(베타)"
   homepage "https://github.com/gkgk545/WashMyMac_homebrew"
 
@@ -11,10 +12,10 @@ cask "washmymac" do
   depends_on arch: :arm64
   depends_on macos: :sonoma
 
-  app "WashMyMac.app"
+  app "Malkkeum.app"
 
   postflight_steps do
-    run "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "{{appdir}}/WashMyMac.app"]
+    run "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "{{appdir}}/Malkkeum.app"]
   end
 
   uninstall launchctl: "com.washmymac.helper",
