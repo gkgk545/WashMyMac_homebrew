@@ -3,13 +3,13 @@
   <channel>
     <title>말끔</title>
     <item>
-      <title>말끔 0.2.0</title>
-      <pubDate>Sun, 22 Nov 2026 07:02:47 +0000</pubDate>
-      <sparkle:version>0.2.0</sparkle:version>
-      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <title>말끔 1.0.0</title>
+      <pubDate>Mon, 23 Nov 2026 12:12:26 +0000</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>새 이름 '말끔' — 앱 이름과 아이콘이 바뀌었어요(설정·기록·권한은 그대로). 모듈 첫 화면에 요약 카드 세 장, 새 모듈 색, 사이드바·숫자·완료 표시 움직임(동작 줄이기를 따름). 대기 중 CPU 사용을 크게 줄였어요.</description>
-      <enclosure url="https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v0.2.0/Malkkeum-0.2.0.zip" length="9727734" type="application/octet-stream" sparkle:edSignature="XFYjsYU8suiKzEQvM3PYOyqmsYNSNKhspdxAUoLDl7cyozY0xgtgRDlAf5sLGwgSNCICjZRSd5+On+qVxWPrDw=="/>
+      <description>말끔 1.0 정식판이에요. 정리 방식이 바뀌어요: 정크(캐시·로그 등)는 휴지통을 거치지 않고 바로 지워져 되돌릴 수 없어요. 휴지통 비우기는 청소 화면에서 직접 고를 때만 해요(스마트 케어는 휴지통을 건드리지 않아요). 베타에서 건너뛰던 일(브라우저 기록 지우기, 최근 항목 목록·문서 이전 버전 지우기, Time Machine 로컬 스냅샷 줄이기)도 이제 실행해요. 앱 제거·정리함·공간 지도에서 고른 내 파일과 시스템 폴더에 남은 앱 파일은 휴지통으로 가요. 실행 중인 앱의 파일은 골랐어도 건너뛰어요. 검토 화면에서 꼭 확인하고 정리하세요. 보호·스마트 케어 검사가 약 4배, 공간 지도는 메모리를 덜 써요. 오류 보고는 베타에서 정해 둔 대로예요(설정 &gt; 일반에서 끌 수 있어요).</description>
+      <enclosure url="https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v1.0.0/Malkkeum-1.0.0.zip" length="9868625" type="application/octet-stream" sparkle:edSignature="U0bGLIq/sxnXNLnDQTjF9+P9sa8Pc3JTHijBr3x+nt4i2QMGz+Xo+bCOK7PdLft9OZ/W7GyjAWanTmnUk+YIAg=="/>
     </item>
   </channel>
 </rss>

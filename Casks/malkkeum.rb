@@ -1,11 +1,11 @@
 cask "malkkeum" do
-  version "0.2.0"
-  sha256 "6ae21dbe08e69a06687cfcfc5ecd045810bdb49624a6172326deb853e3a753cf"
+  version "1.0.0"
+  sha256 "f272a1cdc5000521212374eda3272c4332249556d890a6f18e9e2f2d303ac262"
 
   url "https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v#{version}/Malkkeum-#{version}.zip"
   name "말끔"
   name "Malkkeum"
-  desc "쓸모없는 파일 정리 도구(베타)"
+  desc "쓸모없는 파일 정리 도구"
   homepage "https://github.com/gkgk545/WashMyMac_homebrew"
 
   auto_updates true
