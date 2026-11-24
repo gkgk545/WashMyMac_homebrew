@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <sub>예전 이름 WashMyMac. 이미 쓰고 있다면 업데이트 뒤 처음 열 때 앱 이름이 저절로 바뀌고, 설정·기록·권한은 그대로예요.</sub>
-</p>
-
-<p align="center">
   <a href="https://github.com/gkgk545/WashMyMac_homebrew/releases/latest"><img alt="최신 버전" src="https://img.shields.io/github/v/release/gkgk545/WashMyMac_homebrew?label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&color=8a3ffc"></a>
   <img alt="macOS 14 이상" src="https://img.shields.io/badge/macOS-14%20%EC%9D%B4%EC%83%81-555">
   <img alt="Apple 칩" src="https://img.shields.io/badge/Apple%20%EC%B9%A9-M1%20%EC%9D%B4%EC%83%81-555">
