@@ -1,6 +1,6 @@
 cask "malkkeum" do
-  version "1.0.0.415"
-  sha256 "f95fa532553fdc691c64eed7e8e9315f5a82c2a81db44419fd1da809b0cc6569"
+  version "1.1.0"
+  sha256 "c27cacd48a020ed8a662fb0daa29640528071464abd975a38a527fa8ea35b17c"
 
   url "https://github.com/gkgk545/WashMyMac_homebrew/releases/download/v#{version}/Malkkeum-#{version}.zip"
   name "말끔"

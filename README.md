@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="media/smart-care-results.png" width="820" alt="스마트 케어 스캔이 끝난 화면: 정크 1.5 GB, 찾은 위협 없음, 검토할 항목 12개, 중복 다운로드 2개">
+  <img src="media/smart-care-results.png" width="820" alt="스마트 케어 스캔이 끝난 화면: 청소할 정크 858 MB, 찾은 위협 없음, 검토할 자동 실행 항목 11개, 지울 중복 다운로드 2개">
 </p>
 
 > [!IMPORTANT]
